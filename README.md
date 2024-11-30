@@ -1,4 +1,11 @@
 # 🚀 README for 42 Berlin Piscine C Project (C00 to C06)
+## 📊 Grading
+
+Throughout the Piscine C project, I was evaluated on various criteria, including code efficiency, adherence to project specifications, and overall functionality. I am proud to say that I successfully passed all projects, demonstrating my understanding of the concepts covered. 
+
+### Demo Link
+You can view a demo of my projects here: [Demo Link Placeholder](#)
+
 
 ## 🌟 Overview
 
