@@ -4,7 +4,8 @@
 Throughout the Piscine C project, I was evaluated on various criteria, including code efficiency, adherence to project specifications, and overall functionality. I am proud to say that I successfully passed all projects, demonstrating my understanding of the concepts covered. 
 
 ### Demo Link
-You can view a demo of my projects here: [Demo Link Placeholder](#)
+You can view a demo of my projects here: 
+![Screenshot from 2024-12-01 00-38-12](https://github.com/user-attachments/assets/49dc6141-7736-49b1-ae91-170110cf137b)
 
 
 ## 🌟 Overview
