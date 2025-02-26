@@ -1,5 +1,8 @@
 The Piscine C project at 42 Berlin was an intense and transformative experience that truly shaped my programming journey! From C00 to C06, I immersed myself in the world of C programming, mastering essential concepts and honing my skills. Simultaneously, the Shell projects strengthened my understanding of Unix systems, automation, and scripting, helping me become more proficient in system-level programming.
 
+projects' evaluations:
+![Image](https://github.com/user-attachments/assets/7ff68af3-5561-4365-9402-9352ffa3591e)
+
 This project was not just about coding; it was about pushing my limits, embracing challenges, and growing as a developer.
 
 📚 Key Learnings
